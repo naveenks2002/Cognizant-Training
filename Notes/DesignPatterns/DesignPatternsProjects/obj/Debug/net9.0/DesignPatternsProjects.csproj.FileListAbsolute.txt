@@ -1,0 +1,14 @@
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\bin\Debug\net9.0\DesignPatternsProjects.exe
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\bin\Debug\net9.0\DesignPatternsProjects.deps.json
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\bin\Debug\net9.0\DesignPatternsProjects.runtimeconfig.json
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\bin\Debug\net9.0\DesignPatternsProjects.dll
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\bin\Debug\net9.0\DesignPatternsProjects.pdb
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.AssemblyInfoInputs.cache
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.AssemblyInfo.cs
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.csproj.CoreCompileInputs.cache
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.dll
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\refint\DesignPatternsProjects.dll
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.pdb
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\DesignPatternsProjects.genruntimeconfig.cache
+C:\Users\2406762\OneDrive - Cognizant\Desktop\DesignPatternsProjects\DesignPatternsProjects\obj\Debug\net9.0\ref\DesignPatternsProjects.dll
